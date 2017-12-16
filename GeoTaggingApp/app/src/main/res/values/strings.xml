@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geo Tagging</string>
+    <string name="title_activity_maps">Google Map</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCbptKLnOL520ZpZR9ldusokxFbOXYW290</string>
+    <string name="allow_camera_permission">You need to provide camera access to click pictures and record videos using this application.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="content_description">image</string>
+    <string name="tagged_locations_activity">Tagged Locations</string>
+</resources>
